@@ -1,5 +1,7 @@
 # VISI301
-CMI Informatique => Cours 301
+
+Ce projet est la réalisation d'un jeu avec la bibliothèque pygame lors d'un projet CMI de l'Université Savoie Mont-Blanc.
+
 Type de jeu :
 
 - mode zombie
@@ -34,5 +36,4 @@ Map :
 Installation packages:
 
 $ pip install pygame
-
 $ pip install pygame-menu -U
